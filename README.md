@@ -43,6 +43,8 @@
 |---|---|---|
 | [bcameron.dev](https://bcameron.dev) | Portfolio personal | Next.js · TypeScript · Tailwind |
 | [BrewStore](https://brewstore.bcameron.dev) | Tienda de cervezas artesanales con auth y panel admin | Next.js · Supabase · Tailwind |
+| [IP Threat Intelligence Enricher](https://github.com/BernardoCameron/ip-checker) | Script de enriquecimiento de IPs contra distintas fuentes de threat intelligence. | Python |
+| [Wazuh + Docker Lab](https://github.com/BernardoCameron/wazuh-docker-lab) | Lab monitoreo levantado con docker + agente de pruebas | Wazuh · Docker · Docker compose |
 
 ---
 
