@@ -50,5 +50,5 @@
 
 ### 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/bcameron](https://www.linkedin.com/in/bernardocameron/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/bernardocameron])
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:b.cameron.i26@gmail.com)
