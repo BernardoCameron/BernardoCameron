@@ -1,54 +1,26 @@
-<h1 align="center">Hola, soy Bernardo 👋</h1>
-
 <p align="center">
-  Estudiante de Ingeniería en Informática · Apuntando a DevOps / DevSecOps<br/>
-  Me muevo entre el desarrollo, la infraestructura y la ciberseguridad.
+  <img src="assets/banner.svg" alt="Bernardo Cameron, Analista de Ciberseguridad y Developer" width="100%">
 </p>
 
-<p align="center">
-  <a href="https://bcameron.dev">🌐 bcameron.dev</a>
-</p>
+Estudiante de Ingeniería en Informática en DuocUC, apuntando a DevOps y DevSecOps. Trabajo entre la ciberseguridad defensiva, la infraestructura y el desarrollo, con experiencia en operaciones SOC/NOC.
 
----
+[Portfolio](https://bcameron.dev) · [LinkedIn](https://linkedin.com/in/bernardocameron) · [Correo](mailto:b.cameron.i26@gmail.com)
 
-### 🛠️ Stack
+## En lo que trabajo
 
-**Desarrollo**
+| Área | Herramientas |
+|---|---|
+| Ciberseguridad | Wazuh, AlienVault, FortiGate, Palo Alto, Bitdefender, Kaspersky, Tenable |
+| Infraestructura | VMware ESXi, Docker, AWS, Zabbix, Grafana, Ansible, Terraform, Linux |
+| Desarrollo | Python, Java (Spring Boot), TypeScript, React, Next.js, Kotlin, MySQL, MongoDB, Supabase |
 
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+## Proyectos
 
-**Infraestructura & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-
-**Ciberseguridad**
-
-![Wazuh](https://img.shields.io/badge/Wazuh-3AAAFF?logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?logoColor=white)
-![Tenable](https://img.shields.io/badge/Tenable-00B4E0?logoColor=white)
-
----
-
-### 📌 Proyectos
-
-| Proyecto | Descripción | Stack |
+| Proyecto | Qué es | Stack |
 |---|---|---|
-| [bcameron.dev](https://bcameron.dev) | Portfolio personal | Next.js · TypeScript · Tailwind |
-| [BrewStore](https://brewstore.bcameron.dev) | Tienda de cervezas artesanales con auth y panel admin | Next.js · Supabase · Tailwind |
-| [IP Threat Intelligence Enricher](https://github.com/BernardoCameron/ip-checker) | Script de enriquecimiento de IPs contra distintas fuentes de threat intelligence. | Python |
-| [Wazuh + Docker Lab](https://github.com/BernardoCameron/wazuh-docker-lab) | Lab monitoreo levantado con docker + agente de pruebas | Wazuh · Docker · Docker compose |
-
----
-
-### 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/bernardocameron])
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:b.cameron.i26@gmail.com)
+| [bcameron.dev](https://github.com/BernardoCameron/portafolio) | Mi portfolio personal | Next.js, TypeScript, Tailwind |
+| [BrewStore](https://github.com/BernardoCameron/brewstore-) | Tienda de cervezas artesanales con login y panel de administración. [Ver en vivo](https://brewstore.bcameron.dev) | Next.js, Supabase, Tailwind |
+| [IP Threat Intelligence Enricher](https://github.com/BernardoCameron/ip-checker) | Script que enriquece IPs con distintas fuentes de threat intelligence | Python |
+| [Wazuh + Docker Lab](https://github.com/BernardoCameron/wazuh-docker-lab) | Laboratorio de monitoreo con Wazuh y un agente de pruebas, desplegado con Docker Compose | Wazuh, Docker |
+| [Wazuh + FortiGate](https://github.com/BernardoCameron/Wazuh-fortigate) | Decoders y reglas para procesar syslogs de FortiGate en Wazuh | Wazuh |
+| [SmartLogix](https://github.com/BernardoCameron/SmartLogix) | Plataforma de gestión logística con microservicios | Java, Spring, TypeScript |

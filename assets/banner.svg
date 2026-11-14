@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="240" viewBox="0 0 900 240" role="img" aria-label="Bernardo Cameron, Analista de Ciberseguridad y Developer">
+  <style>
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+    .linea { opacity: 0; animation: entrar 0.8s ease-out forwards; }
+    .l1 { animation-delay: 0.2s; }
+    .l2 { animation-delay: 0.6s; }
+    .l3 { animation-delay: 1.0s; }
+    .cursor { animation: parpadeo 1s steps(1) infinite; }
+    .rejilla { animation: mover 6s linear infinite; }
+    @keyframes entrar { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+    @keyframes parpadeo { 50% { opacity: 0; } }
+    @keyframes mover { to { transform: translate(40px, 40px); } }
+    @media (prefers-reduced-motion: reduce) {
+      .linea { animation: none; opacity: 1; }
+      .cursor, .rejilla { animation: none; }
+    }
+  </style>
+  <defs>
+    <pattern id="grilla" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#a855f7" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="mascara" cx="50%" cy="0%" r="90%">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="velo"><rect width="900" height="240" fill="url(#mascara)"/></mask>
+  </defs>
+
+  <rect width="900" height="240" rx="6" fill="#0a0a0b"/>
+  <g mask="url(#velo)">
+    <g class="rejilla"><rect x="-40" y="-40" width="980" height="320" fill="url(#grilla)"/></g>
+  </g>
+  <rect x="0.5" y="0.5" width="899" height="239" rx="6" fill="none" stroke="#27272a"/>
+
+  <text class="mono linea l1" x="48" y="66" font-size="16" fill="#71717a">$ whoami</text>
+  <text class="mono linea l2" x="48" y="128" font-size="52" font-weight="700" fill="#fafafa">Bernardo <tspan fill="#a855f7">Cameron</tspan><tspan class="cursor" fill="#a855f7">_</tspan></text>
+  <text class="mono linea l3" x="48" y="172" font-size="20" fill="#a1a1aa">Analista de Ciberseguridad y Developer</text>
+  <text class="mono linea l3" x="48" y="206" font-size="14" fill="#71717a">DevSecOps en formación · Santiago, Chile</text>
+</svg>
