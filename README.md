@@ -18,7 +18,7 @@ Estudiante de Ingeniería en Informática en DuocUC, apuntando a DevOps y DevSec
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| [bcameron.dev](https://github.com/BernardoCameron/portafolio) | Mi portfolio personal | Next.js, TypeScript, Tailwind |
+| [bcameron.dev](https://bcameron.dev) | Mi portfolio personal | Next.js, TypeScript, Tailwind |
 | [BrewStore](https://github.com/BernardoCameron/brewstore-) | Tienda de cervezas artesanales con login y panel de administración. [Ver en vivo](https://brewstore.bcameron.dev) | Next.js, Supabase, Tailwind |
 | [IP Threat Intelligence Enricher](https://github.com/BernardoCameron/ip-checker) | Script que enriquece IPs con distintas fuentes de threat intelligence | Python |
 | [Wazuh + Docker Lab](https://github.com/BernardoCameron/wazuh-docker-lab) | Laboratorio de monitoreo con Wazuh y un agente de pruebas, desplegado con Docker Compose | Wazuh, Docker |
